@@ -2,7 +2,7 @@ Hey, I'm Rafael Mafort Coimbra
 
 ---
 
-I’m a software engineer passionate about building scalable digital products that solve real-world problems. I specialize in full-stack development using **Next.js**, **React**, and **Python/Django**.
+I’m a software engineer passionate about building scalable digital products that solve real-world problems. I specialize in full-stack development using **Next.js**, **React**, **Python/Django** and **Typescript/Node.js**.
 
 ---
 
